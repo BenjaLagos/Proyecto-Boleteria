@@ -1,0 +1,10 @@
+En este archivo se guardan los registros de los usuarios que compran en el cine y guarda la fecha de la ultima compra del usuario.
+
+Se guardan en el siguiente formato:
+
+-Primer_Nombre Apellido_Paterno Rut
+
+## Registro de Datos ##
+ |
+ V
+

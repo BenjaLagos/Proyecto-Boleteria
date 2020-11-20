@@ -1,0 +1,21 @@
+## Indicar el nombre de la pelicula, los horarios de ésta (en formato normal o 3d segun la peluicula) en el siguiente formato: ##
+
+Nombre Pelicula-Cantidad_salas_FormatoNormal/(horarios de la sala 1/2/etc en formato HH:MM)-Cantidad_salas_Formato3d/(horarios de la sala 1/2/etc en formato HH:MM) (escribir si la pelicula tiene restriccion de solo mayores de edad ( si o no respectivamente)) (Escribir el numero de la sala en la que se realizará la funcion durante el dia)
+
+Ejemplo:
+
+Don_Quijote 4/12:00/15:00/18:00/22:00 1/ no 5
+Chespirito 2/13:00/16:00 2/12:00/14:00 si 7
+
+
+## Máximo 6 peliculas y 4 salas por pelicula en el turno##
+
+## inicie aqui el formato de cada pelicula ##
+ |
+ V
+El Rey Leon-4/12:00/15:00/18:00/21:00-0/ no 1
+Sonic La Pelicula-3/13:00/16:00/19:00-1/22:00 no 2
+Toy Story-2/12:00/18:00-2/15:00/21:00 no 3
+Saw III-2/13:00/16:00-2/19:00/22:00 si 4
+The Ring-3/14:00/16:30/21:30-1/23:00 si 5
+The Matrix-2/12:00/15:00-2/19:00/21:30 no 6
